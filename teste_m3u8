@@ -1,13 +1,13 @@
-#EXTM3U
-#EXTINF:-1,Anitta - Envolver
-https://www.youtube.com/watch?v=R44hlXqRpW0
-#EXTINF:-1,L7nnon - Não Para
-https://www.youtube.com/watch?v=3L4m2mFeC3w
-#EXTINF:-1,Jão - Idiota
-https://www.youtube.com/watch?v=8Nh3RqYfWcs
-#EXTINF:-1,Luísa Sonza - Café da Manhã
-https://www.youtube.com/watch?v=QjCEm6s4EMQ
-#EXTINF:-1,Matuê - Máquina do Tempo
-https://www.youtube.com/watch?v=Gt4ol5iHPl8
-#EXTINF:-1,Xamã - Malvadão 3
-https://www.youtube.com/watch?v=5Q6D5wDHFwU
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/seuuser/maptv/main/epg.xml"
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-TARGETDURATION:10
+#EXT-X-PLAYLIST-TYPE:VOD
+
+#EXTINF:-1 tvg-id="MAPIM.br" tvg-logo="https://i.imgur.com/SEUCODIGO.png" group-title="Música",Anitta - Envolver (Official Video)
+https://youtu.be/hFCjGiawJi4
+
+#EXTINF:-1 tvg-id="MAPIM.br" tvg-logo="https://i.imgur.com/SEUCODIGO.png" group-title="Música",L7nnon - Sem Fotos (Clipe Oficial)
+https://youtu.be/BYmOuGxLRKk
+
+[...] (continuar com os outros 18 itens)
